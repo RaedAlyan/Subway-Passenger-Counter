@@ -1,2 +1,3 @@
-# Subway-Passenger-Counter
-This is a simple project to count the passengers who entered the subway using JavaScript
+# Subway Passenger Counter
+
+A simple web app built using **JavaScript** to track the number of passengers entering the subway.
